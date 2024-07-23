@@ -1,3 +1,3 @@
 # chaithanya
-This is my first giftn repository.
+This is my first gift repository.
 Author-chaithanya
